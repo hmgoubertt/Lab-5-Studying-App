@@ -1,0 +1,22 @@
+[
+  {
+    "definition": "A text-based interface used to interact with the operating system",
+    "possibleTerms": [
+      "command line",
+      "server",
+      "developer tools",
+      "debugger"
+    ],
+    "correctDefinition": 1
+  },
+  {
+    "definition": "A term used to describe a file or directory location on a drive",
+    "possibleTerms": [
+      "name",
+      "separator",
+      "path",
+      "prompt"
+    ],
+    "correctDefinition": 2
+  }
+]
